@@ -1,7 +1,11 @@
 #!/usr/bin/env ruby
 require 'pry'
+<<<<<<< HEAD
 require_relative '../lib/tic_tac_toe.rb'
 
 puts "Welcome to Tic Tac Toe!"
 game = TicTacToe.new
 game.play
+=======
+require_relative '../lib/tic_tac_toe.rb'
+>>>>>>> 243c16f3717e53188393e76c34dd1fa595d423e0
